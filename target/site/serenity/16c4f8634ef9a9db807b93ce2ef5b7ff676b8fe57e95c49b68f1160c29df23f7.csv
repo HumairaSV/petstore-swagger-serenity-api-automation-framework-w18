@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CRUD test with steps","T1-This will create a new user","SUCCESS","2023-01-03T17:17:46.640Z[Europe/London]","0.0","1.16"
+"User CRUD test with steps","T2-Verify if the user was created","SUCCESS","2023-01-03T17:17:47.800Z[Europe/London]","0.0","1.13"
+"User CRUD test with steps","T3-Update the user details and verify the updated information","SUCCESS","2023-01-03T17:17:48.931Z[Europe/London]","0.0","2.32"
+"User CRUD test with steps","T4-Delete the store and verify if the store has been deleted","SUCCESS","2023-01-03T17:17:51.249Z[Europe/London]","0.0","2.31"

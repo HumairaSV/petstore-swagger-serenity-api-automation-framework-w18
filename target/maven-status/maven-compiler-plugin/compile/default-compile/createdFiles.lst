@@ -1,0 +1,7 @@
+io\swagger\petstore\usernpetinfo\UserSteps.class
+io\swagger\petstore\utils\TestUtils.class
+io\swagger\petstore\utils\PropertyReader.class
+io\swagger\petstore\model\UserPojo.class
+io\swagger\petstore\usernpetinfo\PetSteps.class
+io\swagger\petstore\constants\Endpoints.class
+io\swagger\petstore\model\PetPojo.class

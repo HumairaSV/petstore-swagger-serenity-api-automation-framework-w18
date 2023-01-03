@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: io.swagger.petstore.usernpetinfo.PetCRUDTestWithSteps
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.286 sec <<< FAILURE! - in io.swagger.petstore.usernpetinfo.PetCRUDTestWithSteps
+test003(io.swagger.petstore.usernpetinfo.PetCRUDTestWithSteps)  Time elapsed: 2.376 sec  <<< FAILURE!
+java.lang.AssertionError: 
+Expected: map containing [ANYTHING->"available_updated"]
+     but: map was [<photoUrls=[https://example.com/cat.jpg]>, <name=Vincent97288>, <id=9223372036854307750>, <category={name=Snowy, id=2}>, <tags=[{name=British Short Hair, id=5}]>, <status=available>]
+	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
+	at org.junit.Assert.assertThat(Assert.java:956)
+	at org.junit.Assert.assertThat(Assert.java:923)
+	at io.swagger.petstore.usernpetinfo.PetCRUDTestWithSteps.test003(PetCRUDTestWithSteps.java:81)
+
